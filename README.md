@@ -4,3 +4,6 @@ Meu nome é **Erick Aguilar**. Comecei no mundo do front-end em 2020. Sou apaixo
 
 Atualmente estou estudando e aprendendo todos os dias, focando principalmente na base e na famosa tríade: **HTML, CSS e JavaScript**.
 
+___
+
+[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ericksvaguilar)](https://github.com/anuraghazra/github-readme-stats)

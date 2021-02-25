@@ -4,14 +4,14 @@ Meu nome é **Erick Aguilar**. Comecei no mundo do front-end em 2020. Sou apaixo
 
 Atualmente estou estudando e aprendendo todos os dias, focando principalmente na base e na famosa tríade: **HTML, CSS e JavaScript**.
 
-### Quando não estou codando, estou:
-- Bebendo café ☕
+### Quando não estou codando:
+- Bebo café ☕
 - Aprendendo coisas novas
-- Viajando
-- Meditando
-- Tocando violão
-- Exercitando-se
-- Congelando momentos 📸
+- Viajo
+- Medito
+- Toco violão
+- Exercito-me
+- Congelo momentos 📸
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguilar-erick/)](https://www.linkedin.com/in/aguilar-erick)
 

@@ -8,7 +8,7 @@ Atualmente estou estudando e aprendendo todos os dias, focando principalmente na
 
 ___
 
-[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ericksvaguilar)](https://github.com/anuraghazra/github-readme-stats)
+[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=ericksvaguilar)](https://github.com/anuraghazra&hide=stars/github-readme-stats)
 
 [![Erick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericksvaguilar)](https://github.com/anuraghazra/github-readme-stats)
 
